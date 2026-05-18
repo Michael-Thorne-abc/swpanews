@@ -5,6 +5,7 @@ theme = "ananke"
 
 [params]
   description = "Local news and community updates"
+  featured_image = "/images/Downtown_Charleroi_Pennsylvania.jpg"
 
 [taxonomies]
   category = "categories"
