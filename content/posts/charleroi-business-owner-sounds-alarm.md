@@ -2,6 +2,7 @@
 title: Charleroi business owner sounds alarm on mysterious malady
 date: 2026-03-29
 draft: false
+featured_image: /images/Downtown_Charleroi_Pennsylvania.jpg
 categories:
   - Local Government
 description: A Charleroi business owner is demanding answers after what he describes as a deeply personal and unsettling physical change.
