@@ -1,0 +1,16 @@
+baseURL = "https://my-news-site.pages.dev"
+languageCode = "en-us"
+title = "My News Site"
+theme = "ananke"
+
+[params]
+  description = "Local news and community updates"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
