@@ -1,6 +1,6 @@
-baseURL = "https://my-news-site.pages.dev"
+baseURL = "https://swpanews.pages.dev"
 languageCode = "en-us"
-title = "My News Site"
+title = "Southwest PA News"
 theme = "ananke"
 
 [params]
